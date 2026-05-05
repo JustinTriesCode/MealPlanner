@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src/main",
+        "src/test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/Users/justheri/Documents/CPSC 210/210_VS_CODE/Project/ProjectStarter/lib/junit-platform-console-standalone-1.10.2.jar",
+        "/Users/justheri/Documents/CPSC 210/210_VS_CODE/Project/ProjectStarter/lib/JacocoExcludeFromReportAnnotation.jar",
+        "/Users/justheri/Documents/CPSC 210/210_VS_CODE/Project/ProjectStarter/lib/json-20250517.jar"
+    ],
+    "java.checkstyle.configuration": "${workspaceFolder}/checkstyle.xml",
+    "java.checkstyle.version": "10.2"
+}
